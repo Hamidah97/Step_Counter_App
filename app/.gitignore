@@ -1,0 +1,59 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+*.hprof
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
+
+# IntelliJ IDEA
+out/
+
+# Log files
+*.log
+
+# Android specific files
+captures/
+.externalNativeBuild/
+
+# Firebase config file (optional, if you want to exclude it)
+google-services.json
+
+# Keystore files
+*.keystore
+*.jks
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NDK
+obj/
+
+# Misc
+*.class
+*.dex
+
+# Generated files
+gen/
+
+# Kotlin
+*.kotlin_module
+
+# JetBrains IDEs
+.idea/
+
+# Others
+*.orig
+*.bak
+
+# Crashlytics generated files
+crashlytics.properties
+fabric.properties
